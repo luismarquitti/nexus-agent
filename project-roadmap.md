@@ -12,15 +12,15 @@ This document tracks the high-level progress of the Nexus AI project.
 
 ## 🚀 Epic 1: Foundation and Infrastructure
 
-**Status**: 🟡 In Progress
+**Status**: 🟢 Completed
 **Goal**: Establish the development environment, repository, and basic cloud infrastructure.
 
 - [x] **Repository Setup**: Initialize monorepo with NPM Workspaces.
 - [x] **Backend Structure**: Configure Genkit structure in `apps/functions`.
 - [x] **Frontend Structure**: Initialize Next.js in `apps/web`.
 - [x] **Cloud Setup**: Create GCP project, enable APIs, and initialize Firebase.
-- [ ] **Linting & Config**: Configure shared ESLint, Prettier, and TypeScript config.
-- [ ] **Auth**: Configure Firebase Authentication.
+- [x] **Linting & Config**: Configure shared ESLint, Prettier, and TypeScript config.
+- [x] **Auth**: Configure Firebase Authentication.
 
 ## 🧠 Epic 2: Core AI Engine & RAG
 
