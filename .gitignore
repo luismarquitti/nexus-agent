@@ -36,5 +36,3 @@ ui-debug.log*
 
 # Genkit
 *.genkit
-
-.gemini/
