@@ -1,0 +1,8 @@
+{
+  "name": "nexus-agent-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
